@@ -1,7 +1,7 @@
 # Desafio POO Bootcampo Java DIO
 Repositório da bootcamp Java DIO
 
-Código na linguagem Java utilizando os principais paradigmas e conceitos da programaçao orientada a objetos e 
+Código na linguagem Java utilizando os principais paradigmas e conceitos da programaçao orientada a objetos 
 
 Paradigmas: 
 - Abstração
